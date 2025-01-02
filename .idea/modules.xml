@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NLTKTasks.iml" filepath="$PROJECT_DIR$/.idea/NLTKTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sentiment Analyzer/.idea/Sentiment Analyzer.iml" filepath="$PROJECT_DIR$/../Sentiment Analyzer/.idea/Sentiment Analyzer.iml" />
     </modules>
   </component>
 </project>
