@@ -51,4 +51,3 @@ for sentence in sentences:
     tags = pos_tag(words)
     ner = ne_chunk(tags)
     ner.draw()
- # cnnxx
