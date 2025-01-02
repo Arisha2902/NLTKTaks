@@ -1,28 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8043e3d-2f2d-4329-abe9-f9f0927faaab" name="Changes" comment="" />
+    <list default="true" id="f8043e3d-2f2d-4329-abe9-f9f0927faaab" name="Changes" comment="ok">
+      <change afterPath="$PROJECT_DIR$/Sentiment Analyzer/imdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Arisha2902&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Arisha2902/mn&quot;,
+    &quot;accountId&quot;: &quot;b9defc4a-4df1-493c-834b-f941bb298a5c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2r42SZpj7cfddMUrTNPjsdkky8Q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.StopWords.executor": "Run",
+    "Python.extra.executor": "Run",
+    "Python.imdb.executor": "Debug",
+    "Python.named entity rcognization.executor": "Run",
+    "Python.part of speech.executor": "Run",
+    "Python.preprocessing.executor": "Run",
+    "Python.stemming and lemitazation.executor": "Run",
+    "Python.tf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "ToolWindow.Run.ShowToolbar": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/firoz/PycharmProjects/NLTKTasks"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -41,6 +86,77 @@
       <option name="presentableId" value="Default" />
       <updated>1735804026372</updated>
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <option name="closed" value="true" />
+      <created>1735812997385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735812997385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ok">
+      <option name="closed" value="true" />
+      <created>1735813032965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735813032965</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ok">
+      <option name="closed" value="true" />
+      <created>1735813148148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735813148148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ok">
+      <option name="closed" value="true" />
+      <created>1735813172222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735813172222</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ok">
+      <option name="closed" value="true" />
+      <created>1735813208670</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735813208670</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ok">
+      <option name="closed" value="true" />
+      <created>1735813306590</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735813306590</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="if __name__ == '__main__':&#10;    " language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
